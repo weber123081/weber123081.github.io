@@ -281,3 +281,6 @@ li {
 .content {
     display: none;
 }
+.theme{
+    float: right;
+}
